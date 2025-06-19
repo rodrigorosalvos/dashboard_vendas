@@ -1,7 +1,6 @@
 # Dashboard de Vendas Interativo 📊
 
-[Executar o App no Streamlit](https://rodrslv-dashboard-vendas.streamlit.app/)
-
+[Clique aqui para executar o App no Streamlit](https://rodrslv-dashboard-vendas.streamlit.app/)  <img align="center" alt="Rod-Python" height="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg">
 
 Este projeto apresenta um **Dashboard de Vendas dinâmico e interativo** desenvolvido em Python, utilizando as bibliotecas `Streamlit`, `Pandas` e `Plotly Express`. O objetivo principal é fornecer aos **gerentes de vendas** uma ferramenta visual e intuitiva para **monitorar a performance de vendas**, **identificar tendências** e, consequentemente, auxiliar na **tomada de decisões mais informadas e estratégicas**.
 
